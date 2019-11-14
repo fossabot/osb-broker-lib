@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/pmorie/osb-broker-lib.svg?branch=master)](https://travis-ci.org/pmorie/osb-broker-lib "Travis")
 [![Go Report Card](https://goreportcard.com/badge/github.com/pmorie/osb-broker-lib)](https://goreportcard.com/report/github.com/pmorie/osb-broker-lib)
 [![Godoc documentation](https://img.shields.io/badge/godoc-documentation-blue.svg)](https://godoc.org/github.com/pmorie/osb-broker-lib/pkg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsyncier%2Fosb-broker-lib.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsyncier%2Fosb-broker-lib?ref=badge_shield)
 
 A go library for developing an [Open Service
 Broker](https://github.com/openservicebrokerapi/servicebroker), using the
@@ -69,3 +70,7 @@ services:
 
 Currently this library is used on the [OSB Starter
 Pack](https://github.com/pmorie/osb-starter-pack) project.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsyncier%2Fosb-broker-lib.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsyncier%2Fosb-broker-lib?ref=badge_large)
